@@ -1,5 +1,3 @@
-
-
 package com.example.homechef;
 
 import androidx.annotation.NonNull;
