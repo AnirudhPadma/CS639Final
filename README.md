@@ -1,4 +1,6 @@
-NutriRecipe Finder. It helps you eat healthy by finding recipes based on what nutrients you need. Want more protein? Less carbs? NutriRecipe Finder will search a giant recipe list (powered by Spoonacular) to find meals that fit the bill.
+                                                                 Home Chef Application
+
+It helps you eat healthy by finding recipes based on what nutrients you need. Want more protein? Less carbs? NutriRecipe Finder will search a giant recipe list (powered by Spoonacular) to find meals that fit the bill.
 
 Here's how it might work:
 
