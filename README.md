@@ -1,6 +1,6 @@
                                                                  Home Chef Application
 
-It helps you eat healthy by finding recipes based on what nutrients you need. Want more protein? Less carbs? NutriRecipe Finder will search a giant recipe list (powered by Spoonacular) to find meals that fit the bill.
+It helps you eat healthy by finding recipes based on what nutrients you need. Want more protein? Less carbs? Home Chef app will search a giant recipe list (powered by Spoonacular) to find meals that fit the bill.
 
 Here's how it might work:
 
@@ -10,9 +10,9 @@ See yummy options: The app shows you recipes that fit your needs, with details l
 Save and share favorites: Like a recipe? Save it for later or share it with friends!
 Adjust recipe size: Need to cook for more people? No problem! You can adjust the recipe to make the right amount.
 
-Based on a user's nutritional requirements, NutriRecipe Finder is an unique software that offers individualized recipes to assist users live a healthy lifestyle.
+Based on a user's nutritional requirements, This app Finder is an unique software that offers individualized recipes to assist users live a healthy lifestyle.
 Users can choose the nutritional components they want, and the app will provide a selection of meals that fit those specifications.
-NutriRecipe Finder contains everything you need, including recipes high in particular vitamins, low in carbohydrates, and high in protein. 
+This application contains everything you need, including recipes high in particular vitamins, low in carbohydrates, and high in protein. 
 The app guarantees access to a wide variety of recipes that meet various dietary requirements because it is powered by the Spoonacular API. 
 
 Here's a high-level overview of the expected process:
@@ -27,7 +27,7 @@ Here's a high-level overview of the expected process:
 
 5. User Interaction: Allow the user to select a recipe to view more details. You can also provide an option to adjust the serving size, which would then adjust the quantity of the ingredients.
 
-The NutriRecipe Finder app is designed with a focus on students' wellness and wellbeing. Here's how:
+The Home Chef app is designed with a focus on students' wellness and wellbeing. Here's how:
 Nutrition: The app promotes healthy eating by providing recipes based on the user's nutritional needs. Proper nutrition is crucial for physical health and cognitive function, which directly impacts a student's academic performance.
 
 Personalization: By allowing users to select their desired nutritional components, the app caters to individual dietary needs and preferences. This personalization ensures that each student can find recipes that suit their lifestyle and health goals.
@@ -38,4 +38,4 @@ Education: The app can also serve as an educational tool by helping students lea
 
 Mental Health: Healthy eating habits can also contribute to better mental health. Certain nutrients can boost mood and brain function, and maintaining a balanced diet can help manage stress levels.
 
-In conclusion, the NutriRecipe Finder app supports students' wellness and wellbeing by promoting healthy eating habits, providing personalized and convenient solutions, and serving as an educational tool for better nutritional understanding. 
+In conclusion, the Home Chef app supports students' wellness and wellbeing by promoting healthy eating habits, providing personalized and convenient solutions, and serving as an educational tool for better nutritional understanding. 
