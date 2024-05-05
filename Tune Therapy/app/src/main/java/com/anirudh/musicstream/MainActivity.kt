@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.firebase.firestore.FirebaseFirestore
+import com.google.firebase.firestore.toObjects
 import com.anirudh.musicstream.adapter.CategoryAdapter
 import com.anirudh.musicstream.databinding.ActivityMainBinding
 import com.anirudh.musicstream.models.CategoryModel

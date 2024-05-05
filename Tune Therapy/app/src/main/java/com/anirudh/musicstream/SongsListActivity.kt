@@ -3,13 +3,12 @@ package com.anirudh.musicstream
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.anirudh.musicstream.adapter.SongsListAdapter
-import com.anirudh.musicstream.databinding.ActivitySongsListBinding
-import com.anirudh.musicstream.models.CategoryModel
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.resource.bitmap.RoundedCorners
 import com.bumptech.glide.request.RequestOptions
-
+import com.anirudh.musicstream.adapter.SongsListAdapter
+import com.anirudh.musicstream.databinding.ActivitySongsListBinding
+import com.anirudh.musicstream.models.CategoryModel
 
 class SongsListActivity : AppCompatActivity() {
 
@@ -43,21 +42,3 @@ class SongsListActivity : AppCompatActivity() {
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
