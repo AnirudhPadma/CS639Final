@@ -11,3 +11,5 @@ When it comes to studying, the right tunes can make a world of difference. Tune 
 But Tune Therapy isn't just about practical benefits – it's also a canvas for self-expression and creativity. Students can explore new artists, create their own personalized playlists, or even dabble in music production, fostering a sense of individuality and artistic expression. It's a space to discover, create, and ultimately, find your unique voice.
 
 PPT : https://docs.google.com/presentation/d/15M-rNIOLv-R_2NB2ygeLy3Dmx_9F099HvQYDhG2QV7I/edit?usp=sharing
+
+Design of APP : https://github.com/AnirudhPadma/CS639Final/blob/main/Video%202024-05-04%20at%203.04.27%20PM.mp4'
