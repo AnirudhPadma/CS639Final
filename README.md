@@ -9,3 +9,5 @@ But music does so much more than just calm the mind – it can profoundly impact
 When it comes to studying, the right tunes can make a world of difference. Tune Therapy offers specially designed playlists to enhance focus and concentration, helping you create the perfect environment for learning and productivity. It's like having a personal study buddy that understands exactly what you need to get in the zone.
 
 But Tune Therapy isn't just about practical benefits – it's also a canvas for self-expression and creativity. Students can explore new artists, create their own personalized playlists, or even dabble in music production, fostering a sense of individuality and artistic expression. It's a space to discover, create, and ultimately, find your unique voice.
+
+PPT : https://docs.google.com/presentation/d/15M-rNIOLv-R_2NB2ygeLy3Dmx_9F099HvQYDhG2QV7I/edit?usp=sharing
